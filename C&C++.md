@@ -365,5 +365,5 @@ const用以定义常量；define用于定义宏，而宏可以用于定义常量
 
 ### 3、程序上有哪些section，分别是什么作用
 
-![alt](.\image\section.png)
+![](.\image\section.png)
 
